@@ -22,15 +22,15 @@ The accompanying 3-page Power BI dashboard converts analytical findings into act
 
 ### 1. Executive Fleet Health Overview
 Monitors total fleet population, operational hours, and key failure indicators at a glance.
-![Executive Overview](images/page1_executive_overview.png)
+![Executive Overview](Automotive-vehicle-failure-prediction/images/page1_executive_overview.png)
 
 ### 2. Failure Pattern & Sensor Diagnostics
 Explores root causes, comparing electrical, brake, and engine telemetry across vehicle brands.
-![Failure Analysis](images/page2_failure_analysis.png)
+![Failure Analysis](Automotive-vehicle-failure-prediction/images/page2_failure_analysis.png)
 
 ### 3. Predictive Risk Ranking & Maintenance Action
 Ranks vehicles by ML-predicted failure probability to help engineering teams prioritize diagnostic inspections.
-![Predictive Maintenance](images/page3_predictive_maintenance.png)
+![Predictive Maintenance](Automotive-vehicle-failure-prediction/images/page3_predictive_maintenance.png)
 
 ---
 
