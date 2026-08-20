@@ -1,5 +1,4 @@
-# Automotive-Vehicle-Failure-Prediction
-End-to-end automotive analytics project for vehicle failure prediction and predictive maintenance using SQL, Python, machine learning, and Power BI dashboards.
+
 # 🚗 Automotive Predictive Maintenance & Vehicle Health Analytics
 
 An end-to-end data science solution that detects early failure signals in automotive telemetry, helping fleet managers transition from reactive repairs to data-driven predictive maintenance.
